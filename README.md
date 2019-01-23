@@ -1,0 +1,1 @@
+Repository holds projects completed and course note for module EEEN30150 Modelling and Simulation. Modelling translates problems arising in practical engineering into the purely mathematical of having to solve mathematical equations of certain kinds. The equations are solved using iteration and simulated using MATLAB.
