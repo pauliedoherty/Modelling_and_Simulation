@@ -1,0 +1,1 @@
+This project solves a 2-body problem where the equations of motion are solved for the planet Eath taking in to account the gravitation effects of the Sun and the planet Jupiter. The equations were solved by numerical methods using the Euler-Cromer method. This was implemented using MATLAB.
