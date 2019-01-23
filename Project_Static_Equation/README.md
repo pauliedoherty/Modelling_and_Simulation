@@ -1,0 +1,1 @@
+This project solves a system of unknown angles and points for a range of the known variable Theta. The system in question is the mechanical linkage for the storage and deployment of the roof of a 1991 Ford Mustang.
